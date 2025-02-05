@@ -25,12 +25,6 @@
     <Compile Include="mainPackage\__init__.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="nicholdw_package\nicholdw.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="nicholdw_package\__init__.py">
-      <SubType>Code</SubType>
-    </Compile>
     <Compile Include="utilities_package\english_utilities.py" />
     <Compile Include="utilities_package\__init__.py">
       <SubType>Code</SubType>
@@ -39,7 +33,6 @@
   <ItemGroup>
     <Folder Include="mainPackage\" />
     <Folder Include="data\" />
-    <Folder Include="nicholdw_package\" />
     <Folder Include="utilities_package\" />
   </ItemGroup>
   <ItemGroup>
