@@ -20,5 +20,5 @@ if __name__ == "__main__":
     count = word_count_by_length(words, 10)
     print(count, "words are 10 characters in length")
 
-    # ToDo: Contrive a test case for the most_frequent_letter function so there is a 'tie'
+    # ToDo: Contrive a test case for the most_frequent_letter function so there is a tie
     #  between at least 3 different letters.
